@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there 👋 I'm Sujal
 
-<!--
-**Sujalrai12/Sujalrai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-stack developer building web applications and AI-powered projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 I build web applications and enjoy turning ideas into useful products.
+- 🤖 I'm interested in bringing AI features into practical tools.
+- 🛠️ I work with JavaScript and the React, Node.js, Express, and MongoDB stack.
+- 📍 Find me here on [GitHub](https://github.com/Sujalrai12).
+
+---
+
+## 🚀 Projects
+
+- [AI-Exam-Notes](https://github.com/Sujalrai12/AI-Exam-Notes) — Generate exam-focused study notes, quizzes, and revision material.
+- [TravelNest](https://github.com/Sujalrai12/TravelNest)
+- [VidSnap-AI](https://github.com/Sujalrai12/VidSnap-AI)
+
+---
+
+## 🧰 Tech Stack
+
+JavaScript · React · Node.js · Express · MongoDB · CSS
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories.
